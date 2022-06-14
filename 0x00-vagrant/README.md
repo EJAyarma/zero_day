@@ -1,4 +1,2 @@
-# Zero Day
-
 # Hello Ubuntu
 
